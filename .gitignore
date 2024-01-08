@@ -1,0 +1,6 @@
+experiments/*
+!experiments/*.py
+
+preprocessing/datasets
+
+.DS_Store
