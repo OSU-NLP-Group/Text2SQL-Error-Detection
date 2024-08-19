@@ -77,7 +77,5 @@ python3 ${dir}/model.py \
 	--seed ${seed} \
 	--nl_use_consti_edges \
 	--nl_use_dep_edges \
-	--normalize_embd_dim \
-	--cb_only \
 	--use_seq_edges \
 	--use_beam \
